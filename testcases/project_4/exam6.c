@@ -23,8 +23,6 @@ void dfs(int x, int y, int p, int m, int n) {
             y = y + Y[i];
             i = i + 1;
         }
-        if (x*x + y*y)
-          ans = x*x + y*y;
         return;
     }
     dfs(x + X[n], y + Y[n], p + 1, m, n + 1);

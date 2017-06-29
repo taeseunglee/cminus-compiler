@@ -1,3 +1,4 @@
 *.o
 build/
 /main_prog
+*.s
