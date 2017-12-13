@@ -1,7 +1,7 @@
 # Compielr for C- language
 ## Description
 Design and Development of Compiler for C-(C minus) Language  
-Modify [Tiny Compiler](http://www.cs.sjsu.edu/faculty/louden/cmptext/) and develop a compiler for C-Minus(a subset of C).
+Modify [Tiny Compiler](http://www.cs.sjsu.edu/faculty/louden/cmptext/) and develop a compiler for C-Minus(i.e, a subset of C).
 
 ## Required Program
 * gcc
