@@ -6,7 +6,7 @@ Project 1 : Lexical Analyzer
 -------------------
 Cminus Source Code -> Token List
   
-Project 2 : Syntantic Analyzer
+Project 2 : Syntactic Analyzer
 -------------------
 Token List -> Abstract Syntax Tree
 
